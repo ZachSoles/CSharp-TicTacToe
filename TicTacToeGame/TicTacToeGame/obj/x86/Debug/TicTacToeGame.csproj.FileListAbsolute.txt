@@ -1,0 +1,6 @@
+/Users/zachsoles/Projects/TicTacToeGame/TicTacToeGame/bin/Debug/TicTacToeGame.exe
+/Users/zachsoles/Projects/TicTacToeGame/TicTacToeGame/bin/Debug/TicTacToeGame.pdb
+/Users/zachsoles/Projects/TicTacToeGame/TicTacToeGame/obj/x86/Debug/TicTacToeGame.csprojAssemblyReference.cache
+/Users/zachsoles/Projects/TicTacToeGame/TicTacToeGame/obj/x86/Debug/TicTacToeGame.csproj.CoreCompileInputs.cache
+/Users/zachsoles/Projects/TicTacToeGame/TicTacToeGame/obj/x86/Debug/TicTacToeGame.exe
+/Users/zachsoles/Projects/TicTacToeGame/TicTacToeGame/obj/x86/Debug/TicTacToeGame.pdb
